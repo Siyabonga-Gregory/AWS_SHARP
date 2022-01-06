@@ -1,4 +1,10 @@
 # AWS_SHARP
+
+If need help please, don't hesitate to send me a mail 👉 huge.fuze@gmail.com
+
+Thank you for coming by my repo and please don't forget to give this repo a star if you find it usefull.
+
+❤️Manny thanks!❤️
 ![Screenshot_31](https://user-images.githubusercontent.com/19228713/147635536-04cbb012-767e-4865-8cd2-7180272edda8.png)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
